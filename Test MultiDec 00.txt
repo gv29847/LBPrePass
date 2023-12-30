@@ -1,3 +1,5 @@
+' THIS IS TEXT FOR CHECKING THE OPERATION OF LBPrePass ONLY
+' IT IS NOT INTENDED FOR EXECUTION! 
 global count
 'Loc count
 Function GetLine()
