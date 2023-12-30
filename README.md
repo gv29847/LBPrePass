@@ -10,3 +10,5 @@ LBPrePass checks LB 4.5.1 code and is written in LB 4.5.1 with
 declarations. 
 The files named "Test..." are not intended to be runnable Liberty 
 Basic. There are there as test files for LBPrePass.
+
+Use at your own risk!!
